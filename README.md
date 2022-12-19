@@ -10,11 +10,17 @@ Further running commands are shown by default by React in README file in the fol
 ## Changes in the node modules folder
 
 `module.exports = {
+
   content: ["./src/**/*.{html,js}"],
+  
   theme: {
+  
     extend: {},
+    
   },
+  
   plugins: [],
+  
 }`
 
 ## Used to deploy
