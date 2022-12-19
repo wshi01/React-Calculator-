@@ -17,7 +17,7 @@ Further running commands are shown by default by React in README file in the fol
   plugins: [],
 }`
 
-## Used to deploy (currently not working) 
+## Used to deploy
 `npm install gh-pages --save-dev`
 
 Changes to package.json 
@@ -30,7 +30,7 @@ Changes to package.json
  
  `npm run deploy`
  
- Currently is not hosted on Github Pages, you can download and run locally with the above packages in Packages needed. 
+You can download and run locally with the above packages in Packages needed. 
 
 ## User guide 
 
