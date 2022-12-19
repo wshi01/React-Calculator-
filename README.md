@@ -7,8 +7,6 @@ Further running commands are shown by default by React in README file in the fol
 
 ### `npm install -D tailwindcss postcss autoprefixer`
 
-### `npx tailwindcss init`
-
 ## Changes in the node modules folder
 
 `module.exports = {
@@ -24,7 +22,7 @@ Further running commands are shown by default by React in README file in the fol
 
 Changes to package.json 
 
-`"homepage": "https://wshi01.github.io/React-Calculator/calc_react",`
+`"homepage": "https://wshi01.github.io/React-Calculator-",`
 
 `"predeploy": "npm run build",`
 
